@@ -1,6 +1,5 @@
 body {
-  font-family: Georgia, serif;
-  font-style: ;
+  font-family: Helvetica, sans-serif;
   line-height: 1.5;
   
   color: #222222;
@@ -21,9 +20,31 @@ h2 {
   font-size: 25px;
 }
 
+h4 {
+  text-align: right;
+  margin-right: 15px;
+  margin-bottom: 0px;
+}
+
+.list {
+  font-weight: 700;
+  font-size: 16px;
+}
+
 .text {
   margin: 25px 25px;
-  font-weight: 500;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.contacts {
+  list-style-type: none;
+  text-align: right;
+  margin-top: 0;
+  margin-right: 15px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.25;
 }
 
 .bg {
